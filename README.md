@@ -72,12 +72,12 @@ Key variables:
 
 ## Project Status
 
-🚧 **Early Development** — Phase 1 in progress
+🚧 **Early Development** — Phase 1 complete
 
 - [x] Phoenix app with PostgreSQL
-- [x] Docker Compose setup
-- [ ] User authentication (phx.gen.auth)
-- [ ] GitHub OAuth
+- [x] Docker Compose setup (Phoenix, PostgreSQL, Redis, cloudflared)
+- [x] User authentication (phx.gen.auth with LiveView)
+- [x] GitHub OAuth (Ueberauth)
 - [ ] JJ repository integration
 - [ ] Pull request workflow
 - [ ] Federation

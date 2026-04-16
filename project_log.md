@@ -7,7 +7,7 @@
 
 ### Key Milestones
 
-- [ ] **Milestone 1**: Phoenix app running in Docker with auth (local + GitHub OAuth)
+- [x] **Milestone 1**: Phoenix app running in Docker with auth (local + GitHub OAuth)
 - [ ] **Milestone 2**: Can create and view a JJ repository via web UI
 - [ ] **Milestone 3**: Pull request creation and review workflow functional
 - [ ] **Milestone 4**: Can `jj git push` to your server and auto-create PRs
